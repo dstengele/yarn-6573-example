@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "packageManager": "yarn@4.5.1",
+  "dependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-focus-lock": "2.13.2",
+    "subpackage": "file:./subpackage"
+  }
+}
